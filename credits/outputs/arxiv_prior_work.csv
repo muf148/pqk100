@@ -1,0 +1,13 @@
+date,id,qubits,pqk,bio,title,link
+2026-10-12,2610.15998,,False,True,A 4-Qubit Variational Quantum Classifier for Sequence-Specific Classification of DNMT3A and DNMT3B Flanking Methylation Preferences,https://arxiv.org/abs/2610.15998
+2026-09-20,2609.23476,,False,True,Comparative Study of Quantum and Classical Machine Learning Models in Binary Classification,https://arxiv.org/abs/2609.23476
+2026-08-25,2608.24631,156.0,False,False,When Similarity Is Interaction-Driven: Quantum Kernels for Regime-Sensitive Learning,https://arxiv.org/abs/2608.24631
+2026-08-19,2608.19304,,False,True,Quantum Kernel Estimation for the Discovery of Early Lung Cancer Detection,https://arxiv.org/abs/2608.19304
+2026-05-22,2605.24252,114.0,True,False,Hybrid Quantum-Classical Machine Learning Algorithms for Multi-Output Time-Series Forecasting at Utility Scale,https://arxiv.org/abs/2605.24252
+2026-05-14,2605.14672,156.0,False,False,AQKA: Active Quantum Kernel Acquisition Under a Shot Budget,https://arxiv.org/abs/2605.14672
+2026-04-20,2604.18837,,False,True,Benchmarking Quantum Kernel Support Vector Machines Against Classical Baselines on Tabular Data: A Rigorous Empirical Study with Hardware Validation,https://arxiv.org/abs/2604.18837
+2026-04-09,2604.07873,,False,True,Hybrid Quantum--Classical k-Means Clustering via Quantum Feature Maps,https://arxiv.org/abs/2604.07873
+2026-04-09,2604.07856,10.0,False,True,Hardware-Aware Quantum Support Vector Machines,https://arxiv.org/abs/2604.07856
+2026-02-23,2602.20352,,False,True,Quantum Machine Learning for Complex Systems,https://arxiv.org/abs/2602.20352
+2026-01-29,2601.22194,156.0,False,False,Practical Evaluation of Quantum Kernel Methods for Radar Micro-Doppler Classification on Noisy Intermediate-Scale Quantum (NISQ) Hardware,https://arxiv.org/abs/2601.22194
+2025-04-24,2504.18392,,False,True,Quantum machine learning framework for longitudinal biomedical studies,https://arxiv.org/abs/2504.18392

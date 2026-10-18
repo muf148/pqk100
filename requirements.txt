@@ -1,0 +1,12 @@
+qiskit==2.5.1
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.48.0
+numpy
+scipy
+pandas
+scikit-learn
+networkx
+matplotlib
+joblib
+threadpoolctl
+jupyter

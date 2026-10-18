@@ -1,0 +1,5 @@
+,CV AUC (train),AUC held-out TCGA,AUC METABRIC
+PQK (local noise model),1.0,0.875,0.688
+PQK (exact),1.0,0.844,0.719
+RBF-SVM,1.0,0.875,0.781
+Logistic regression,1.0,0.844,0.781

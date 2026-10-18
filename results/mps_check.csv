@@ -1,0 +1,4 @@
+chi,max_abs_error,seconds_per_sample
+8,3.10e-02,0.6
+32,4.50e-04,14.4
+64,1.87e-05,98.5
